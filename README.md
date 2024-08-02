@@ -33,7 +33,7 @@ Aqui estão algumas das tecnologias e linguagens de programação com as quais t
 ## 📫 Como me Contatar
 
 - **Email**: [jussimar@jussimarleal.com.br](mailto:jussimar@jussimarleal.com.br)
-- **LinkedIn**: [linkedin.com/in/jussimar]([https://www.linkedin.com/in/jussimar](https://www.linkedin.com/in/jussimar-nascimento-leal-19b27637/))
+- **LinkedIn**: [linkedin.com/in/jussimarleal]((https://www.linkedin.com/in/jussimar-nascimento-leal-19b27637/))
 - **Twitter**: [twitter.com/jussimar](https://twitter.com/jussimarleal)
 
 ---
