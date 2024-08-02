@@ -1,7 +1,7 @@
 # 👨‍🏫 Jussimar - Professor de Programação
 
 [![GitHub followers](https://img.shields.io/github/followers/jussimar?style=social)](https://github.com/jussimar)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/jussimarnascimentoleal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/jussimar-nascimento-leal-19b27637/)
 [![Twitter](https://img.shields.io/twitter/follow/jussimar?style=social)](https://twitter.com/jussimarleal)
 
 Bem-vindo ao meu perfil no GitHub! Sou Jussimar, professor de programação com vasta experiência em desenvolvimento web, mobile e desktop.
