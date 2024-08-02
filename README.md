@@ -29,22 +29,10 @@ Aqui estão algumas das tecnologias e linguagens de programação com as quais t
   - ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   - ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-## 📚 Projetos Destacados
-
-Aqui estão alguns projetos nos quais trabalhei e que considero importantes:
-
-### [Projeto 1: Sistema de Gestão Escolar](https://github.com/jussimar/projeto-gestao-escolar)
-Um sistema completo para a gestão de escolas, desenvolvido em Java e PHP.
-
-### [Projeto 2: Aplicativo de Tarefas](https://github.com/jussimar/projeto-app-tarefas)
-Aplicativo mobile para gerenciamento de tarefas diárias, disponível para Android e iOS.
-
-### [Projeto 3: Website Pessoal](https://github.com/jussimar/projeto-website-pessoal)
-Meu portfólio online, desenvolvido com HTML, CSS e JavaScript.
 
 ## 📫 Como me Contatar
 
-- **Email**: [jussimar@example.com](mailto:jussimar@example.com)
+- **Email**: [jussimar@jussimarleal.com.br](mailto:jussimar@jussimarleal.com.br)
 - **LinkedIn**: [linkedin.com/in/jussimar](https://www.linkedin.com/in/jussimar)
 - **Twitter**: [twitter.com/jussimar](https://twitter.com/jussimar)
 
